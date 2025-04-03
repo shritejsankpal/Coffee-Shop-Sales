@@ -1,0 +1,36 @@
+The Coffee Shop Sales Analysis document focuses on analyzing retail sales data to improve business performance. Based on the provided dashboard and data, here are the answers to its key questions:
+
+1. Sales variation by day & hour:
+   - Sales peak in the morning, especially between 7 AM and 10 AM.
+   - Sales remain steady throughout the day but decline after 5 PM.  
+   - Weekly sales are consistent across all weekdays.
+
+2. Peak sales time:
+   - 8 AM - 10 AM sees the highest sales activity.
+
+3. Total sales revenue per month:
+   - The total revenue shown is $698,812.33, but monthly breakdowns would need to be extracted from the dataset.
+
+4. Sales variation across store locations: 
+   - Hell’s Kitchen has the highest sales at $236,511.17.  
+   - Astoria follows with $232,243.91.  
+   - Lower Manhattan records $230,057.25
+
+5. Average price/order per person:  
+   - Avg. Bill per Person:$4.69
+   - Avg. Orders per Person:1.44
+
+6. Best-selling products by quantity & revenue: 
+   - Top-selling product: Barista Espresso ($91,406.20)  
+   - Other popular items:  
+   - Brewed Chai Tea ($77,081.95)  
+   - Hot Chocolate ($72,416.00)  
+   - Gourmet Brewed Coffee ($70,034.60)  
+   - Brewed Black Tea ($47,932.00)  
+
+7. Sales variation by product category & type:
+   - Top category by sales: Tea (39) 
+   - Other major categories: 
+   - Coffee (28%)  
+   - Bakery (12%)  
+   - Flavors (10%)  
